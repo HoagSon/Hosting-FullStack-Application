@@ -6,7 +6,7 @@ branch-defaults:
 deploy:
   artifact: ./src/Archive.zip
 global:
-  application_name: udagram_fullstack
+  application_name: udagramfullstack
   branch: null
   default_ec2_keyname: null
   default_platform: Node.js 14
